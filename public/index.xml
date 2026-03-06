@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>게임공략 블로그</title>
-    <link>http://dadakdadak.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 게임공략 블로그</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
     <lastBuildDate>Fri, 06 Mar 2026 17:26:14 +0900</lastBuildDate>
-    <atom:link href="http://dadakdadak.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>http://dadakdadak.com/posts/hello/</link>
+      <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Fri, 06 Mar 2026 17:26:14 +0900</pubDate>
-      <guid>http://dadakdadak.com/posts/hello/</guid>
+      <guid>http://localhost:1313/posts/hello/</guid>
       <description></description>
     </item>
   </channel>
