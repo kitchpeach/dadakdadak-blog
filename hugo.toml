@@ -1,6 +1,6 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'http://dadakdadak.com/'
 languageCode = 'ko-kr'
-title = 'JDY 디자인 블로그'
+title = '게임공략 블로그'
 theme = "PaperMod"
 
 # 작성자 정보를 구조화하여 입력
